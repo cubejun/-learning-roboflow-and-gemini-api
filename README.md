@@ -47,7 +47,8 @@ Gemini Vision Pro API와 Roboflow는 이미지 분석과 객체 인식 분야에
 
 # 블럭도
 
-![캡스톤디자인 drawio](https://github.com/cubejun/-learning-roboflow-and-gemini-api/assets/133946040/ba217c88-fd7a-4462-bdc2-7887045bf236)
+![캡](https://github.com/cubejun/-learning-roboflow-and-gemini-api/assets/133946040/c8478602-b43b-438b-b4c3-41c4d5c7ffec)
+
 
 
 # 영상
