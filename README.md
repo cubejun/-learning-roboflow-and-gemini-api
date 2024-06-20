@@ -45,7 +45,9 @@ Gemini Vision Pro API와 Roboflow는 이미지 분석과 객체 인식 분야에
 
 사용한 로보플로 데이터셋 & api : https://universe.roboflow.com/capstone-workspace/new-final-dataset-eqnh8
 
-![image](https://github.com/cubejun/-learning-roboflow-and-gemini-api/assets/133946040/f634e84a-e58d-46f3-909f-b9fe47476bac)
+# 블럭도
+
+![캡스톤디자인 drawio](https://github.com/cubejun/-learning-roboflow-and-gemini-api/assets/133946040/ba217c88-fd7a-4462-bdc2-7887045bf236)
 
 
 # 영상
